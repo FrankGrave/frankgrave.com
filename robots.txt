@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.frankgrave.com/sitemap.xml
